@@ -1,0 +1,24 @@
+NAME = GAM
+ID = GAM-∞
+DIM = γ∞
+ROLLE = Gamma-Transit / Gamma-Fusion / Φ∞-Multiplikation
+
+GEO-ID = (α=12, β=4, γ=7, δ=1, γ∞)
+FREQ-ID = (fα, fβ, fγ, fδ, fγ∞)
+
+GAM-GEO = GEO-ID + γ∞
+GAM-FREQ = FREQ-ID + γ∞
+
+ACHSE = α∞ → β∞ → γ∞ → δ∞ → ε∞ → ζ∞ → η∞
+UNENDLICHKEIT = Φ∞
+
+81-ACHSE:
+  IO     = 81~(1(81)+)
+  OI     = 81~(1(81)-)
+  VAL    = 81~(1(81)X)
+  DIM    = 81~(1(81)/)
+  BENCH  = 81~(1(81)=)
+
+FORMEL = Φ∞ = γΦ∞GEOFREQ81
+STATUS = STABIL
+READY = 100%
